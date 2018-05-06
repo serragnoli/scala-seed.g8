@@ -1,5 +1,5 @@
-organization := "com.example",
-scalaVersion := "2.12.6",
+organization := "com.example"
+scalaVersion := "2.12.6"
 version := "0.1.0-SNAPSHOT"
-name := "$name$",
+name := "$name$"
 libraryDependencies ++= Seq("org.scalatest" %% "scalatest" % "3.0.5" % Test)
